@@ -1,0 +1,6 @@
+Strict Mode được tạo ra để giúp bạn tránh được một số lỗi không đáng có
+ khi làm việc với Javascript, dễ dàng viết code Javascript an toàn hơn,
+  cũng như giúp phong cách code của bạn trở nên mạch lạc, dễ đọc hơn.
+
+-----------
+Phương thức toLocaleString () trả về một chuỗi có biểu diễn số này nhạy cảm với ngôn ngữ.
